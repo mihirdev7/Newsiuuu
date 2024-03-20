@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Newsiuuu" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/Brown</item>
+        <item name="colorPrimaryVariant">@color/Brown</item>
+        <item name="android:statusBarColor">@color/Brown</item>
+    </style>
+    <style name="Theme.Newsiuuu" parent="Base.Theme.Newsiuuu" />
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/black2</item>
+    </style>
+
+</resources>
