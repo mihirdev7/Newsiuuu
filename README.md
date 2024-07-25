@@ -17,6 +17,7 @@ News App is a modern, user-friendly application developed for Android using Kotl
 - Glide: For image loading
 
 ## Screenshots
+![Search](https://github.com/user-attachments/assets/e50a2047-f051-40ee-bfde-3e6a87f1db85)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
