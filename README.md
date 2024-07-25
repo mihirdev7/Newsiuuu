@@ -18,6 +18,10 @@ News App is a modern, user-friendly application developed for Android using Kotl
 
 ## Screenshots
 ![Search](https://github.com/user-attachments/assets/e50a2047-f051-40ee-bfde-3e6a87f1db85)
+![Favourite](https://github.com/user-attachments/assets/01d1b7b5-ebfb-48e1-aefb-cae3c5584cf0)
+![Article](https://github.com/user-attachments/assets/8050d6b4-e9a5-40b8-85d2-c0bd9bc8d408)
+![feed](https://github.com/user-attachments/assets/db0dc604-2b22-4285-a817-5621d5da5091)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
